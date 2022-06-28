@@ -21,4 +21,4 @@ Descrição: Jogo de Damas em Python utilizando o framework Pygame
 - Placar (100%);
 - Condições de vitória (100%).
 
-Vídeo: https://www.youtube.com/watch?v=Dp1vrh-itTs
+https://youtu.be/G4PmA4XAkZc
