@@ -1,9 +1,3 @@
-# mp_damas
-
-Aluno: Lucas de Medeiros Nunes Fernandes
-Matrícula: 117110210
-
-Disciplina: Programação 1 e Laboratório de Programação 1
 
 Descrição: Jogo de Damas em Python utilizando o framework Pygame
 
